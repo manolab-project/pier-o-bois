@@ -1,2 +1,6 @@
-# pier-o-bois
-Specific Manolab version for PierOBois
+# manolab-studio
+
+Logiciel spécialement conçu pour l'association Pier-O-Bois.
+Basé sur Manolab Studio.
+
+
